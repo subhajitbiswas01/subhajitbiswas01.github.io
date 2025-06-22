@@ -25,9 +25,10 @@ author:
   avatar           : "photo_sb.png"
   name             : "Subhajit Biswas"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doctoral research fellow"
+  bio              : "Post-doctoral research fellow | University of Southampton"
   location         : "Southampton, United Kingdom"
   employer         : "University of Southampton"
+  Areas            : "Experimental Fluid Mechanics | Turbulent Multiphase Flows"
   uri              : # URL
   email            : "s.biswas@soton.ac.uk" 
 
