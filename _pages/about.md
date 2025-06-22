@@ -11,23 +11,12 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Journal Publication:
 ======
-1. Subhajit Biswas and Raghuraman N Govardhan. “Interaction of a vortex ring with a rigid particle:
-Particle dynamics and vortex ring dynamics.” Accepted in Journal of Fluid Mechanics.
-2. Subhajit Biswas and Christina Vanderwel (2024). “Flow through a hollow cube in a turbulent boundary
-layer: Towards understanding indoor pollutant dispersion.” Flow, Cambridge University Press. 2024;4:E19.
-doi:10.1017/flo.2024.14.
-3. Subhajit Biswas and Raghuraman N Govardhan (2024). “Effects of salt concentration on top wall bubble
-injection in a turbulent channel flow: bubble dynamics and wall drag reduction.” Experiments in Fluids, vol.
-65, no. 3, pp. 34, Springer. doi: https://doi.org/10.1007/s00348-024-03770-8.
-4. Subhajit Biswas and Raghuraman N Govardhan (2023). “Vortex ring and bubble interaction: Effects
-of bubble size on vorticity dynamics and bubble dynamics.” Physics of Fluids, vol. 35, no. 8, AIP Publishing.
-doi:https://doi.org/https://doi.org/10.1063/5.0159766.
-5. Subhajit Biswas and Raghuraman N Govardhan (2022). “Interaction of a rigid buoyant sphere and a
-deforming bubble with a vortex ring: The role of deformability.” Physical Review Fluids, vol. 7, no. 9, pp.
-094302, APS. doi:https://doi.org/10.1103/PhysRevFluids.7.094302.
-6. Subhajit Biswas and Raghuraman N Govardhan (2020). “Effect of single and multiple bubbles on a
-thin vortex ring.” Journal of Flow Visualization and Image Processing, vol. 27, no. 1, Begel House Inc.
-doi:https://doi.org/10.1615/JFlowVisImageProc.2020031014.
+1. Subhajit Biswas and Raghuraman N Govardhan. “Interaction of a vortex ring with a rigid particle: Particle dynamics and vortex ring dynamics.” Accepted in Journal of Fluid Mechanics.
+2. Subhajit Biswas and Christina Vanderwel (2024). “Flow through a hollow cube in a turbulent boundary layer: Towards understanding indoor pollutant dispersion.” Flow, Cambridge University Press. 2024;4:E19. doi:10.1017/flo.2024.14.
+3. Subhajit Biswas and Raghuraman N Govardhan (2024). “Effects of salt concentration on top wall bubble injection in a turbulent channel flow: bubble dynamics and wall drag reduction.” Experiments in Fluids, vol. 65, no. 3, pp. 34, Springer. doi: https://doi.org/10.1007/s00348-024-03770-8.
+4. Subhajit Biswas and Raghuraman N Govardhan (2023). “Vortex ring and bubble interaction: Effects of bubble size on vorticity dynamics and bubble dynamics.” Physics of Fluids, vol. 35, no. 8, AIP Publishing. doi: https://doi.org/https://doi.org/10.1063/5.0159766.
+5. Subhajit Biswas and Raghuraman N Govardhan (2022). “Interaction of a rigid buoyant sphere and a deforming bubble with a vortex ring: The role of deformability.” Physical Review Fluids, vol. 7, no. 9, pp. 094302, APS. doi: https://doi.org/10.1103/PhysRevFluids.7.094302.
+6. Subhajit Biswas and Raghuraman N Govardhan (2020). “Effect of single and multiple bubbles on a thin vortex ring.” Journal of Flow Visualization and Image Processing, vol. 27, no. 1, Begel House Inc. doi: https://doi.org/10.1615/JFlowVisImageProc.2020031014.
 
 
 Getting started
