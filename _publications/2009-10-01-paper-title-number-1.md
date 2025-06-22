@@ -2,7 +2,7 @@
 title: "Effect of single and multiple bubbles on a thin vortex ring"
 collection: publications
 category: journal
-permalink: /publication/2020-bubbles-vortex-ring
+permalink: https://www.dl.begellhouse.com/journals/52b74bd3689ab10b,38e46e5e497ac8cb,538b8a397ab1e248.html
 excerpt: 'Study of the interaction between bubbles and a thin vortex ring using flow visualization.'
 date: 2020-01-01
 venue: 'Journal of Flow Visualization and Image Processing'
