@@ -9,11 +9,26 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website of Biswas
+Journal Publication:
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Subhajit Biswas and Raghuraman N Govardhan. “Interaction of a vortex ring with a rigid particle:
+Particle dynamics and vortex ring dynamics.” Accepted in Journal of Fluid Mechanics.
+2. Subhajit Biswas and Christina Vanderwel (2024). “Flow through a hollow cube in a turbulent boundary
+layer: Towards understanding indoor pollutant dispersion.” Flow, Cambridge University Press. 2024;4:E19.
+doi:10.1017/flo.2024.14.
+3. Subhajit Biswas and Raghuraman N Govardhan (2024). “Effects of salt concentration on top wall bubble
+injection in a turbulent channel flow: bubble dynamics and wall drag reduction.” Experiments in Fluids, vol.
+65, no. 3, pp. 34, Springer. doi: https://doi.org/10.1007/s00348-024-03770-8.
+4. Subhajit Biswas and Raghuraman N Govardhan (2023). “Vortex ring and bubble interaction: Effects
+of bubble size on vorticity dynamics and bubble dynamics.” Physics of Fluids, vol. 35, no. 8, AIP Publishing.
+doi:https://doi.org/https://doi.org/10.1063/5.0159766.
+5. Subhajit Biswas and Raghuraman N Govardhan (2022). “Interaction of a rigid buoyant sphere and a
+deforming bubble with a vortex ring: The role of deformability.” Physical Review Fluids, vol. 7, no. 9, pp.
+094302, APS. doi:https://doi.org/10.1103/PhysRevFluids.7.094302.
+6. Subhajit Biswas and Raghuraman N Govardhan (2020). “Effect of single and multiple bubbles on a
+thin vortex ring.” Journal of Flow Visualization and Image Processing, vol. 27, no. 1, Begel House Inc.
+doi:https://doi.org/10.1615/JFlowVisImageProc.2020031014.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
