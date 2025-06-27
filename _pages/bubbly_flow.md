@@ -1,6 +1,6 @@
 ---
-title: "Bubbly Flow"
-permalink: /bubblyflow/
+title: "Bubbly Flowxx"
+permalink: /bubblyflowxx/
 layout: single
 author_profile: true
 ---
