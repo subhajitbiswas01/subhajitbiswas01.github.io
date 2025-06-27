@@ -9,8 +9,8 @@ redirect_from:
  
 <div style="text-align: justify;">
 I am a Postdoctoral Research Fellow in the Department of Aeronautics and Astronautics at the University of Southampton, UK. My research expertise in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on laboratory experiments modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with research groups across the UK specialising in numerical simulations and experiments.
-
-
+</div>
+<div style="text-align: justify;">
 Previously, I obtained my PhD in Mechanical Engineering from the Indian Institute of Science (IISc), Bangalore, India. My doctoral research, titled “Interaction of Bubble(s) and Buoyant Rigid Particles with Vortical Structures: Towards Understanding Bubbly Turbulent Flows,” explored a range of problems from the fundamental interactions between vortical structures and air bubbles or rigid particles to practical applications such as drag reduction via bubble injection in turbulent boundary layers. I also hold a master’s degree from IISc, where my thesis focused on thrust generation using rigid and flexible flapping foils.
 
 </div>
