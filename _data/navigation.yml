@@ -24,6 +24,12 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Projects"
+    permalink: /projects/
+---
+
+# My Projects
+
   #- title: "Blog Posts"
   #  url: /year-archive/
 
