@@ -26,6 +26,9 @@ main:
 
   - title: "Projects"
     permalink: /projects/
+
+  - title: "Research"
+    permalink: /research/
 ---
 
 # My Projects
