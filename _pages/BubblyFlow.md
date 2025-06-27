@@ -1,6 +1,8 @@
 ---
 title: "Bubbly Flow"
 permalink: /bubblyflow/
+layout: single
+author_profile: true
 ---
 
 # Bubbly Flow: Vortex–Bubble Interactions and Drag Reduction
