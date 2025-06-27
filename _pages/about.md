@@ -9,7 +9,7 @@ redirect_from:
  
 <div style="text-align: justify;">
 <p>
-I am a <b>Postdoctoral Research Fellow<\b> in the Department of Aeronautics and Astronautics at the University of Southampton, UK. My research expertise in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on laboratory experiments modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with research groups across the UK specialising in numerical simulations and experiments.
+I am a **Postdoctoral Research Fellow** in the Department of Aeronautics and Astronautics at the University of Southampton, UK. My research expertise in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on laboratory experiments modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with research groups across the UK specialising in numerical simulations and experiments.
 <p>
 
 <p>
