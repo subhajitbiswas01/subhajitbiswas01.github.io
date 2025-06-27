@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journal Articles (Published/Accepted)
 
-1. **Subhajit Biswas**, Raghuraman N Govardhan. *Interaction of a vortex ring with a rigid particle: Particle dynamics and vortex ring dynamics.* Accepted in Journal of Fluid Mechanics.
+1. **Subhajit Biswas**, Raghuraman N Govardhan. *Interaction of a vortex ring with a rigid particle: Particle dynamics and vortex ring dynamics. 2025, * Accepted in Journal of Fluid Mechanics.
 
 2. **Subhajit Biswas**, Christina Vanderwel. *Flow through a hollow cube in a turbulent boundary layer: Towards understanding indoor pollutant dispersion.* Flow, Cambridge University Press. 2024;4:E19. [doi:10.1017/flo.2024.14](https://doi.org/10.1017/flo.2024.14)
 
@@ -21,15 +21,15 @@ author_profile: true
 
 6. **Subhajit Biswas**, Raghuraman N Govardhan. *Effect of single and multiple bubbles on a vortex ring.* Journal of Flow Visualization and Image Processing, vol. 27, no. 1, Begel House Inc. [doi:10.1615/FlowVisImageProc.2020029100](https://doi.org/10.1615/FlowVisImageProc.2020029100)
 
-## Journal Articles (Under Review / To be submitted)
+# Journal Articles (Under Review / To be submitted)
 
-1. Youssef Alsahli, **Subhajit Biswas**, Zheng Tong Xie, Christina Vanderwel. *Characterization of flow over an isolated tall building through laboratory experiments and large-eddy simulations.* Under review in Journal of Building and Environment.
+# 1. Youssef Alsahli, **Subhajit Biswas**, Zheng Tong Xie, Christina Vanderwel. *Characterization of flow over an isolated tall building through laboratory experiments and large-eddy simulations.* Under review in Journal of Building and Environment.
 
-2. **Subhajit Biswas**, Paul Hayden, Matteo Carpentieri, Christina Vanderwel. *Transport of passive scalar in a flow through and around a wall-mounted hollow cube with upstream source.* Under review in Experiments in Fluids.
+# 2. **Subhajit Biswas**, Paul Hayden, Matteo Carpentieri, Christina Vanderwel. *Transport of passive scalar in a flow through and around a wall-mounted hollow cube with upstream source.* Under review in Experiments in Fluids.
 
-3. **Subhajit Biswas**, Raghuraman N Govardhan. *Drag modifications and bubble dynamics in a channel flow with bottom wall bubble injection.* To be submitted shortly in Experiments in Fluids.
+# 3. **Subhajit Biswas**, Raghuraman N Govardhan. *Drag modifications and bubble dynamics in a channel flow with bottom wall bubble injection.* To be submitted shortly in Experiments in Fluids.
 
-4. **Subhajit Biswas**, Christina Vanderwel. *Scalar transport by coherent structures in flow over bluff bodies.* In preparation.
+# 4. **Subhajit Biswas**, Christina Vanderwel. *Scalar transport by coherent structures in flow over bluff bodies.* In preparation.
 
 ## Conference Proceedings
 
