@@ -10,6 +10,7 @@ author_profile: true
 ## Journal Articles (Published/Accepted)
 
 <div style="text-align: justify;">
+   
 1. **Subhajit Biswas**, Raghuraman N Govardhan. *Interaction of a vortex ring with a rigid particle: Particle dynamics and vortex ring dynamics.* (2025) In press, Journal of Fluid Mechanics.
 
 
