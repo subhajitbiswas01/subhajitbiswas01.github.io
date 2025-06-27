@@ -1,5 +1,5 @@
 ---
-title: "Bubbly Flow Experiments"
+title: "Bubbly Flow"
 permalink: /bubblyflow/
 ---
 
