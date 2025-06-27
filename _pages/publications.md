@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Articles (Published/Accepted)
-
+<div style="text-align: justify;">
 1. **Subhajit Biswas**, Raghuraman N Govardhan. *Interaction of a vortex ring with a rigid particle: Particle dynamics and vortex ring dynamics. 2025, * Accepted in Journal of Fluid Mechanics.
 
 2. **Subhajit Biswas**, Christina Vanderwel. *Flow through a hollow cube in a turbulent boundary layer: Towards understanding indoor pollutant dispersion.* Flow, Cambridge University Press. 2024;4:E19. [doi:10.1017/flo.2024.14](https://doi.org/10.1017/flo.2024.14)
@@ -20,7 +20,7 @@ author_profile: true
 5. **Subhajit Biswas**, Raghuraman N Govardhan. *Interaction of a rigid buoyant sphere and vortex ring: The role of deformability.* Physical Review Fluids, vol. 7, no. 9, pp. 094302. [doi:10.1103/PhysRevFluids.7.094302](https://doi.org/10.1103/PhysRevFluids.7.094302)
 
 6. **Subhajit Biswas**, Raghuraman N Govardhan. *Effect of single and multiple bubbles on a vortex ring.* Journal of Flow Visualization and Image Processing, vol. 27, no. 1, Begel House Inc. [doi:10.1615/FlowVisImageProc.2020029100](https://doi.org/10.1615/FlowVisImageProc.2020029100)
-
+</div>
 
 ## Conference Proceedings
 
