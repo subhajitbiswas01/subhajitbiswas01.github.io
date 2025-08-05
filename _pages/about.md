@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 
  
 <div style="text-align: justify;">
@@ -46,8 +46,6 @@ My <span style="color: blue;"><b>research expertise</b></span> in experimental f
 
 <hr>
 
-<p><strong>Selected Publications:</strong></p>
-<p>(See <a href="/publications/">Publications</a> page for publication records.
 
 
 
