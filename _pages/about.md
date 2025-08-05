@@ -13,33 +13,30 @@ I am a <span style="color: blue;"><b>Postdoctoral Research Fellow</b></span> in 
 <p>
 
 <p>
-Previously, I obtained my <span style="color: blue;"><b>PhD</b></span> in Mechanical Engineering from the <span style="color: blue;"><b>Indian Institute of Science (IISc), Bangalore</b></span>, India. My doctoral research, titled “Interaction of Bubble(s) and Buoyant Rigid Particles with Vortical Structures: Towards Understanding Bubbly Turbulent Flows,” explored a range of problems from the fundamental interactions between vortical structures and air bubbles or rigid particles to practical applications such as drag reduction via bubble injection in turbulent boundary layers. I also hold a master’s degree from IISc, where my thesis focused on thrust generation using rigid and flexible flapping foils.
+Previously, I obtained my <span style="color: blue;"><b>PhD</b></span> in Mechanical Engineering from the <span style="color: blue;"><b>Indian Institute of Science (IISc), Bangalore</b></span>, India. My doctoral research explored a range of problems from the fundamental interactions between vortical structures and air bubbles or rigid particles to practical applications such as drag reduction via bubble injection in turbulent boundary layers. 
 <p>
   
 </div>
-
-Journal Publication:
-======
 
 ---
 
 ## Employment History
 
-- **UKRI Post-doctoral Research Fellow**, Aerodynamics and Astronautics, University of Southampton, UK (Mar 2023 – present)
-- **Post-doctoral Researcher**, Flow Physics Lab, Mechanical Engineering, IISc Bangalore, India (Apr 2022 – Feb 2023)
+- **Post-doctoral Research Fellow**, Aerodynamics and Astronautics, University of Southampton, UK (2023 – present)
+- **Post-doctoral Researcher**, Mechanical Engineering, IISc Bangalore, India (2022 – 2023)
 
 ---
 
 ## Education
 
-- **Ph.D. Mechanical Engineering**, IISc Bangalore (2015 – 2022)  
+- **Ph.D. Mechanical Engineering**, IISc Bangalore  
   Thesis: *Interaction of bubble(s) and buoyant rigid particles with vortical structures*  
   [Link](https://etd.iisc.ac.in/handle/2005/6016)
 
-- **M.E. Mechanical Engineering**, IISc Bangalore (2013 – 2015)  
+- **M.E. Mechanical Engineering**, IISc Bangalore  
   Thesis: *Experimental investigation of thrust generation using rigid and flexible foils*
 
-- **B.Tech. Mechanical Engineering**, West Bengal University of Technology (2008 – 2012)  
+- **B.Tech. Mechanical Engineering**, West Bengal University of Technology  
   Thesis: *Particle emission control by using theoretical electro-cyclone model*
 
 ---
