@@ -28,13 +28,14 @@ author_profile: true
 
 ## Conference Proceedings:
 
-4. **Subhajit Biswas**, Matteo Carpentieri, Christina Vanderwel. *Indoor-outdoor pollutant transport through a hollow cube with a cross-ventilating flow.* 9th European-African Conference on Wind Engineering (EACWE2025), Trondheim, Norway, 16-19 June, 2025. [PDF]([https://drive.google.com/your-pdf-link-1](https://www.researchgate.net/publication/392911314_Indoor-outdoor_pollutant_transport_through_a_hollow_cube_with_a_cross-ventilating_flow#fullTextFileContent))
+4. **Subhajit Biswas**, Matteo Carpentieri, Christina Vanderwel. *Indoor-outdoor pollutant transport through a hollow cube with a cross-ventilating flow.* 9th European-African Conference on Wind Engineering (EACWE2025), Trondheim, Norway, 16–19 June, 2025. [PDF](https://www.researchgate.net/publication/392911314_Indoor-outdoor_pollutant_transport_through_a_hollow_cube_with_a_cross-ventilating_flow#fullTextFileContent)
 
-3. **Subhajit Biswas**, Paul Hayden, Matteo Carpentieri, Christina Vanderwel. *Pollutant dispersion in cross-ventilating flow through a building: Wind and water tunnel measurements.* Proceedings of the 14th Conference on Wind Engineering, 4-6th September, 2024. [PDF]([https://drive.google.com/your-pdf-link-2](https://eprints.soton.ac.uk/493270/1/40_Paper_40_WES_Full_Paper.pdf))
+3. **Subhajit Biswas**, Paul Hayden, Matteo Carpentieri, Christina Vanderwel. *Pollutant dispersion in cross-ventilating flow through a building: Wind and water tunnel measurements.* Proceedings of the 14th Conference on Wind Engineering, 4–6 September, 2024. [PDF](https://eprints.soton.ac.uk/493270/1/40_Paper_40_WES_Full_Paper.pdf)
 
-2. **Subhajit Biswas**, Christina Vanderwel. *Indoor-outdoor pollutant concentration in a flow through a hollow cube immersed in a turbulent boundary layer.* Proceedings of the 13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13), Montreal, Canada, pp. 39-47. [url](https://proceedings.tsfp13.org/49819/) [PDF]([https://drive.google.com/your-pdf-link-3](https://eprints.soton.ac.uk/491859/1/Biswas-Indoor-outdoor_pollutant_exchange_in_a_flow_through_a_hollow_cube_immersed_in_a_turbulent_boundary.pdf))
+2. **Subhajit Biswas**, Christina Vanderwel. *Indoor-outdoor pollutant concentration in a flow through a hollow cube immersed in a turbulent boundary layer.* Proceedings of the 13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13), Montreal, Canada, pp. 39–47. [URL](https://proceedings.tsfp13.org/49819/) | [PDF](https://eprints.soton.ac.uk/491859/1/Biswas-Indoor-outdoor_pollutant_exchange_in_a_flow_through_a_hollow_cube_immersed_in_a_turbulent_boundary.pdf)
 
-1. **Subhajit Biswas**, Raghuraman N Govardhan. *Bubble capture, breakup, and coalescence in vortex-bubble interaction.* Proceedings of the 16th Asian Congress of Fluid Mechanics, Bangalore, India, pp. 33-41. [doi:10.1007/978-981-15-3183-34](https://doi.org/10.1007/978-981-15-3183-34) [PDF]([https://drive.google.com/your-pdf-link-4](https://drive.google.com/file/d/17RXZZH1Ko4aMTje5ytts5bUgRsR0nZf0/view?usp=share_link))
+1. **Subhajit Biswas**, Raghuraman N Govardhan. *Bubble capture, breakup, and coalescence in vortex-bubble interaction.* Proceedings of the 16th Asian Congress of Fluid Mechanics, Bangalore, India, pp. 33–41. [doi:10.1007/978-981-15-3183-34](https://doi.org/10.1007/978-981-15-3183-34) | [PDF](https://drive.google.com/file/d/17RXZZH1Ko4aMTje5ytts5bUgRsR0nZf0/view?usp=share_link)
+
 
 
 ## Conference Abstracts:
@@ -67,6 +68,7 @@ Instructions:
 - Add links to PDF files in your repository if uploading full papers.
 - Adjust formatting or grouping as needed for your site style.
 -->
+
 
 
 
