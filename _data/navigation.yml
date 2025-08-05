@@ -24,11 +24,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Projects"
-    permalink: /projects/
+  #- title: "Projects"
+   # permalink: /projects/
 
-  - title: "Research"
-    permalink: /research/
+  #- title: "Research"
+   # permalink: /research/
 
   - title: "Bubbly Flow"
     url: /bubblyflow/
