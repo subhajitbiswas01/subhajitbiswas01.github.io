@@ -9,11 +9,7 @@ redirect_from:
  
 <div style="text-align: justify;">
 <p>
-I am a <span style="color: blue;"><b>Postdoctoral Research Fellow</b></span> in the Department of Aeronautics and Astronautics at the <span style="color: blue;"><b>University of Southampton, UK</b></span>. My <span style="color: blue;"><b>research expertise</b></span> in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on laboratory experiments modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with research groups across the UK specialising in numerical simulations and experiments.
-<p>
-
-<p>
-Previously, I obtained my <span style="color: blue;"><b>PhD</b></span> in Mechanical Engineering from the <span style="color: blue;"><b>Indian Institute of Science (IISc), Bangalore</b></span>, India. My doctoral research explored a range of problems from the fundamental interactions between vortical structures and air bubbles or rigid particles to practical applications such as drag reduction via bubble injection in turbulent boundary layers. 
+My <span style="color: blue;"><b>research expertise</b></span> in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on laboratory experiments modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with research groups across the UK specialising in numerical simulations and experiments. Previously, I obtained my PhD in Mechanical Engineering from the Indian Institute of Science (IISc), Bangalore, India. My doctoral research explored a range of problems from the fundamental interactions between vortical structures and air bubbles or rigid particles to practical applications such as drag reduction via bubble injection in turbulent boundary layers. 
 <p>
   
 </div>
