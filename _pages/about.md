@@ -64,7 +64,7 @@ My <span style="color: blue;"><b>research expertise</b></span> in experimental f
 
   <!-- Right: Figure -->
   <div style="flex: 0 0 300px;">
-    <img src="/assets/images/myfigure.png" alt="Research figure" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;">
+    <img src="/images/FLOW.png" alt="Research figure" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;">
     <p style="font-size: 0.9em; text-align: center; margin-top: 5px;">
       Figure: Experimental setup in the water tunnel
     </p>
