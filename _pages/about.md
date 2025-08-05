@@ -6,18 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
  
 <div style="text-align: justify;">
 <p>
 My <span style="color: blue;"><b>research expertise</b></span> in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on laboratory experiments modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with research groups across the UK specialising in numerical simulations and experiments. Previously, I obtained my PhD in Mechanical Engineering from the Indian Institute of Science (IISc), Bangalore, India. My doctoral research explored a range of problems from the fundamental interactions between vortical structures and air bubbles or rigid particles to practical applications such as drag reduction via bubble injection in turbulent boundary layers. 
 <p>
   
-**Employment History:**
+<p><strong>Employment History:</strong></p>
+<ul>
+  <li><strong>Postdoctoral Research Fellow</strong>, Aerodynamics and Astronautics, University of Southampton, UK (2023 – Present)</li>
+  <li><strong>Postdoctoral Researcher</strong>, Mechanical Engineering, IISc Bangalore, India (2022 – 2023)</li>
+</ul>
 
-- **Postdoctoral Research Fellow**, Aerodynamics and Astronautics, University of Southampton, UK (2023 – Present)  
-- **Postdoctoral Researcher**, Mechanical Engineering, IISc Bangalore, India (2022 – 2023)
-
----
 
 Education:
 <p>
