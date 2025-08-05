@@ -14,42 +14,42 @@ My <span style="color: blue;"><b>research expertise</b></span> in experimental f
   
 </div>
 
----
-
 ## Employment History
 
-- **Post-doctoral Research Fellow**, Aerodynamics and Astronautics, University of Southampton, UK (2023 – present)
-- **Post-doctoral Researcher**, Mechanical Engineering, IISc Bangalore, India (2022 – 2023)
+- **Postdoctoral Research Fellow**  
+  Aerodynamics and Astronautics, University of Southampton, UK (2023 – Present)
 
----
+- **Postdoctoral Researcher**  
+  Mechanical Engineering, IISc Bangalore, India (2022 – 2023)
+
+<hr>
 
 ## Education
 
-- **Ph.D. Mechanical Engineering**, IISc Bangalore  
-  Thesis: *Interaction of bubble(s) and buoyant rigid particles with vortical structures*  
-  [Link](https://etd.iisc.ac.in/handle/2005/6016)
+- **Ph.D. in Mechanical Engineering**, IISc Bangalore  
+  *Thesis:* *Interaction of bubble(s) and buoyant rigid particles with vortical structures*  
+  [View Thesis](https://etd.iisc.ac.in/handle/2005/6016)
 
-- **M.E. Mechanical Engineering**, IISc Bangalore  
-  Thesis: *Experimental investigation of thrust generation using rigid and flexible foils*
+- **M.E. in Mechanical Engineering**, IISc Bangalore  
+  *Thesis:* *Experimental investigation of thrust generation using rigid and flexible foils*
 
-- **B.Tech. Mechanical Engineering**, West Bengal University of Technology  
-  Thesis: *Particle emission control by using theoretical electro-cyclone model*
+- **B.Tech. in Mechanical Engineering**, West Bengal University of Technology  
+  *Thesis:* *Particle emission control by using theoretical electro-cyclone model*
 
----
+<hr>
 
 ## Research Expertise
 
-- Experimental fluid mechanics, turbulence, aerodynamics
-- Environmental flows (pollutant dispersion, ventilation)
-- Multi-phase turbulent flows (bubble/particle-laden flows)
+- Experimental fluid mechanics, turbulence, aerodynamics  
+- Environmental flows (pollutant dispersion, ventilation)  
+- Multiphase turbulent flows (bubble/particle-laden flows)  
 - Drag reduction, vorticity dynamics, fluid-structure interactions
 
----
+<hr>
 
 ## Selected Publications
 
 (See [Publications](/publications/) page for full list.)
-
 
 
 
