@@ -20,42 +20,35 @@ My <span style="color: blue;"><b>research expertise</b></span> in experimental f
 </ul>
 
 
-Education:
-<p>
-- Ph.D. in Mechanical Engineering, IISc Bangalore 
-  <p>
-  Thesis: Interaction of bubble(s) and buoyant rigid particles with vortical structures
-    <p>
-  [View Thesis](https://etd.iisc.ac.in/handle/2005/6016)
-<p>
-  <p>
-- M.E. in Mechanical Engineering, IISc Bangalore 
-  <p>
-  Thesis:Experimental investigation of thrust generation using rigid and flexible foils
-<p>
-  <p>
-- B.Tech. in Mechanical Engineering, West Bengal University of Technology 
-  <p>
-  Thesis: Particle emission control by using theoretical electro-cyclone model
-<p>
-  <p>
----
-<p>
-Research Expertise
-<p>
-- Experimental fluid mechanics, turbulence, aerodynamics
-<p>  
-- Environmental flows (pollutant dispersion, ventilation)
-<p> 
-- Multiphase turbulent flows (bubble/particle-laden flows)
-<p> 
-- Drag reduction, vorticity dynamics, fluid-structure interactions
-<p>
----
+<p><strong>Education:</strong></p>
+<ul>
+  <li><strong>Ph.D. in Mechanical Engineering</strong>, IISc Bangalore  
+    <br>Thesis: <em>Interaction of bubble(s) and buoyant rigid particles with vortical structures</em>  
+    <a href="https://etd.iisc.ac.in/handle/2005/6016">View Thesis</a>
+  </li>
+  <li><strong>M.E. in Mechanical Engineering</strong>, IISc Bangalore  
+    <br>Thesis: <em>Experimental investigation of thrust generation using rigid and flexible foils</em>
+  </li>
+  <li><strong>B.Tech. in Mechanical Engineering</strong>, West Bengal University of Technology  
+    <br>Thesis: <em>Particle emission control by using theoretical electro-cyclone model</em>
+  </li>
+</ul>
 
-## Selected Publications
+<hr>
 
-(See [Publications](/publications/) page for full list.)
+<p><strong>Research Expertise:</strong></p>
+<ul>
+  <li>Experimental fluid mechanics, turbulence, aerodynamics</li>
+  <li>Environmental flows (pollutant dispersion, ventilation)</li>
+  <li>Multiphase turbulent flows (bubble/particle-laden flows)</li>
+  <li>Drag reduction, vorticity dynamics, fluid-structure interactions</li>
+</ul>
+
+<hr>
+
+<p><strong>Selected Publications:</strong></p>
+<p>(See <a href="/publications/">Publications</a> page for
+
 
 
 
