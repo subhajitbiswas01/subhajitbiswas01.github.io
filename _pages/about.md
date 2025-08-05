@@ -50,5 +50,25 @@ My <span style="color: blue;"><b>research expertise</b></span> in experimental f
 <hr>
 
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- Left: Paragraph -->
+  <div style="flex: 1;">
+    <p>
+      My research focuses on experimental fluid mechanics, multiphase turbulent flows,
+      and environmental fluid dynamics. I investigate pollutant dispersion, drag reduction,
+      and vortex-particle interactions using advanced experimental techniques such as PIV,
+      PLIF, and high-speed imaging. These studies have applications in air quality,
+      marine engineering, and energy systems.
+    </p>
+  </div>
+
+  <!-- Right: Figure -->
+  <div style="flex: 0 0 300px;">
+    <img src="/assets/images/myfigure.png" alt="Research figure" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;">
+    <p style="font-size: 0.9em; text-align: center; margin-top: 5px;">
+      Figure: Experimental setup in the water tunnel
+    </p>
+  </div>
+</div>
 
 
