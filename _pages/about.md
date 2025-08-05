@@ -47,18 +47,7 @@ My <span style="color: blue;"><b>research expertise</b></span> in experimental f
 <hr>
 
 <p><strong>Selected Publications:</strong></p>
-<p>(See <a href="/publications/">Publications</a> page for
+<p>(See <a href="/publications/">Publications</a> page for publication records.
 
 
 
-
-
-
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like ...
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks...
