@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Subhajit Biswas / Welcome to the page..."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Subhajit Biswas"
 description              : &description "personal description"
