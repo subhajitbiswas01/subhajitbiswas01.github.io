@@ -157,7 +157,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 70%; border-radius: 10px;">
+<img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
 
 ---
@@ -173,6 +173,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
