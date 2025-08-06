@@ -37,4 +37,17 @@ The experimental study investigates a hollow cube placed in a turbulent boundary
 
 The findings reveal strong dependencies on window configurations and boundary layer thickness, with direct implications for predicting pollutant exposure in naturally ventilated buildings.
 
+
+</div>
+
+
+<p style="margin-top:10px;">
+📄 <strong>Publication:</strong> 
+<a href="https://pubs.aip.org/aip/pof/article-abstract/35/8/083328/2907753/Vortex-ring-and-bubble-interaction-Effects-of?redirectedFrom=fulltext" target="_blank" style="color:#007acc; text-decoration:none;">
+Physics of Fluids, Vol. 35, No. 8 (PDF)
+</a>
+</p>
+
+<div style="text-align: center; margin-top: 15px;">
+<img src="/images/POF.png" alt="Vortex Ring and Bubble Size Effects" style="max-width: 90%; border-radius: 10px;">
 </div>
