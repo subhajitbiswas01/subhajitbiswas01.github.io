@@ -71,4 +71,16 @@ My research in experimental fluid mechanics broadly encompasses interfacial dyna
 </ul>
 
 
+<hr>
+
+<p><strong>Collaborators:</strong></p>
+<ul>
+  <li>Prof. Rghuraman N. Govardhan – Indian Institute of Science, Bengaluru</li>
+  <li>Prof. Christina Vanderwel – University of Southampton</li>
+  <li>Prof. Zheng Tong Xie – University of Southampton</li>
+  <li>Prof. Matteo Carpentieri – University of Surrey</li>
+  <li>Dr. Paul Hayden – University of Surrey</li>
+</ul>
+
+<hr>
 
