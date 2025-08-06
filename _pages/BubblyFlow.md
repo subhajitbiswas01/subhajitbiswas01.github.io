@@ -31,16 +31,19 @@ TSFP, proceeding, 2024 (PDF)
 
 ---
 
-##  **Vortex ring and bubble interaction: Effects of bubble size on vorticity dynamics and bubble dynamics**
+## 🌀 **Vortex Ring and Bubble Interaction: Effects of Bubble Size on Vorticity Dynamics and Bubble Dynamics**
 
 <div style="text-align: justify;">
 
-In most studies on bubble deformation and breakup in turbulence, the influence of bubble size is not considered independently, as it is usually accounted for through the Weber number ($We$). However, alongside $We$, bubble size can also be a critical parameter since it influences the bubble’s dynamical characteristics and its interaction with vortices.  I studied the interaction of a single vortex ring with a deforming air bubble, at different bubble-to-vortex ring size ratios ($\Phi$) over a wide range of $We$.  
+In most studies on bubble deformation and breakup in turbulence, the influence of bubble size is not considered independently, as it is usually accounted for through the Weber number ($We$). However, alongside $We$, bubble size can also be a critical parameter since it influences the bubble’s dynamical characteristics and its interaction with vortices.  
 
-**Bubble dynamics:** Varying $\Phi$ brings striking changes in bubble deformation and breakup dynamics, even at a fixed $We$, during the initial stage. At later stages, the statistics are nearly independent of $\Phi$ and governed primarily by $We$.  
-- **Vortex ring dynamics:** The evolution depends on both $\Phi$ and $We$. Reductions in the ring's propagation speed and enstrophy caused by the bubble follow a scaling of ${\Phi}^2/\sqrt{We}$. Above a critical $\Phi \approx 1.2$, significant ring deformation and fragmentation occur. 
+I studied the interaction of a single vortex ring with a deforming air bubble, at different bubble-to-vortex ring size ratios ($\Phi$) over a wide range of $We$.  
 
-</div>
+<strong>Bubble dynamics:</strong> Varying $\Phi$ brings striking changes in bubble deformation and breakup dynamics, even at a fixed $We$, during the initial stage. At later stages, the statistics are nearly independent of $\Phi$ and governed primarily by $We$.  
+
+<strong>Vortex ring dynamics:</strong> The evolution depends on both $\Phi$ and $We$. Reductions in the ring's propagation speed and enstrophy caused by the bubble follow a scaling of ${\Phi}^2/\sqrt{We}$. Above a critical $\Phi \approx 1.2$, significant ring deformation and fragmentation occur.
+
+</div> <!-- ✅ Close the div before next section -->
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
@@ -50,8 +53,9 @@ Physics of Fluids, Vol. 35, No. 8 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/POF_BubbleSize.png" alt="Vortex Ring and Bubble Size Effects" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/POF.png" alt="Vortex Ring and Bubble Size Effects" style="max-width: 90%; border-radius: 10px;">
 </div>
+
 
 ---
 
@@ -173,6 +177,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
