@@ -85,7 +85,7 @@ Accepted in Journal of Fluid Mechanics
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/Deformability.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/PRF.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -108,7 +108,11 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/Swarm.png" alt="Multiple Bubbles and Vortex Ring" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/Swarm2.png" alt="Multiple Bubbles and Vortex Ring" style="max-width: 90%; border-radius: 10px;">
+</div>
+
+<div style="text-align: center; margin-top: 15px;">
+<img src="/images/Vorticity.png" alt="Multiple Bubbles and Vortex Ring" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -135,7 +139,11 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/Schematic_TCF.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/ExpSetup_TCF.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
+</div>
+
+<div style="text-align: center; margin-top: 15px;">
+<img src="/images/TV_FV_salt.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -176,4 +184,5 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
