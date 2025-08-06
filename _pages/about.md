@@ -51,14 +51,14 @@ My research in experimental fluid mechanics broadly encompasses interfacial dyna
 
 <hr>
 
-<hr>
-
-<p><strong>Experimental:</strong></p>
+<p><strong>Experience with facilities:</strong></p>
 <ul>
-  <li><strong>Experience with different experimental facilities:</strong> Wind tunnel, Water tunnel, Water channel</li>
+  <li> Large-scale Wind and water tunnel (Univ. of Southampton)</li>
+  <li> Enflo wind tunnel (Univ. of Surrey)</li>
+  <li> Medium scale turbulent channel and water tunnel (Indian Institute of Science)</li>
 </ul>
 
-<p><strong>Flow measurement techniques:</strong></p>
+<p><strong>Measurement techniques:</strong></p>
 <ul>
   <li>Laser Doppler Anemometry (LDA)</li>
   <li>Fast Flame Ionisation Detector (FFID)</li>
