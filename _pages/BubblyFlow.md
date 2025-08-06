@@ -67,6 +67,7 @@ In bubbly flows, the deformability of bubbles is critical in governing the dynam
 <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.094302" target="_blank" style="color:#007acc; text-decoration:none;">
 Physical Review Fluids, 2022 (PDF)
 </a>
+</p>
 
 
 <div style="text-align: center; margin-top: 15px;">
@@ -88,6 +89,7 @@ In bubbly flows, the deformability of bubbles is critical in governing the dynam
 <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/interaction-of-a-vortex-ring-with-a-buoyant-spherical-particle-effects-of-particle-size-on-vorticity-dynamics-and-particle-dynamics/37A856FF5A73EECE0C019410690BAE2D" target="_blank" style="color:#007acc; text-decoration:none;">
 Journal of Fluid Mechanics, 2025 (PDF)
 </a>
+</p>
 
 
 <div style="text-align: center; margin-top: 15px;">
@@ -157,3 +159,4 @@ Flow, Cambridge University Press, 2024 (PDF)
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
+
