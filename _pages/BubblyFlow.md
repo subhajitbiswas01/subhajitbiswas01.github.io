@@ -132,7 +132,7 @@ This focuses on the interaction of multiple air bubbles (a swarm) with a single 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
 <a href="10.1615/JFlowVisImageProc.2020031014" target="_blank" style="color:#007acc; text-decoration:none;">
-Flow, Cambridge University Press, 2024 (PDF)
+J. of Flow Visualization, 2020 (PDF)
 </a>
 </p>
 
@@ -153,7 +153,7 @@ Many bubble drag reduction (BDR) applications occur in contaminated environments
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
 <a href="https://link.springer.com/article/10.1007/s00348-024-03770-8" target="_blank" style="color:#007acc; text-decoration:none;">
-Flow, Cambridge University Press, 2024 (PDF)
+Experiments in Fluids, 2024 (PDF)
 </a>
 </p>
 
@@ -181,6 +181,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
+
 
 
 
