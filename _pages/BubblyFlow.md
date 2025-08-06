@@ -58,7 +58,7 @@ Physics of Fluids, Vol. 35, No. 8 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/vortex_bubble_size.png" alt="Vortex Ring and Bubble Size Effects" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/POF_BubbleSize.png" alt="Vortex Ring and Bubble Size Effects" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -85,7 +85,7 @@ Accepted in Journal of Fluid Mechanics
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/vortex_particle.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/Deformability.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -108,7 +108,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/multiple_bubbles.png" alt="Multiple Bubbles and Vortex Ring" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/Swarm.png" alt="Multiple Bubbles and Vortex Ring" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -135,7 +135,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/salt_concentration.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/Schematic_TCF.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -160,7 +160,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/flexible_foils.png" alt="Flexible Foil Thrust Generation" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -176,3 +176,4 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
