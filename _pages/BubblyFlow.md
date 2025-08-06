@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## 🌀 **Part I: Vortex Ring and Bubble Interaction — Indoor-Outdoor Flow**
+## 🌀 **Pollutant transport in indoor and outdoor environments under atmospheric boundary layer conditions**
 
 <div style="text-align: justify;">
 
@@ -16,9 +16,12 @@ Cross ventilation plays a crucial role in dispersing indoor pollutants through t
 </div>
 
 <p style="margin-top:10px;">
-📄 <strong>Publication:</strong> 
-<a href="https://drive.google.com/file/d/1JV1y6pKnsH4TYJezZbBWHzKoIt6roiWQ/view?usp=drive_link" target="_blank" style="color:#007acc; text-decoration:none;">
+📄 <strong>Articles:</strong> 
+<a href="https://www.cambridge.org/core/journals/flow/article/flow-through-a-hollow-cube-in-a-turbulent-boundary-layer-towards-understanding-indoor-pollutant-dispersion/A550B75A54F11D33D1F0F690BDA34BB2" target="_blank" style="color:#007acc; text-decoration:none;">
 Flow, Cambridge University Press, 2024 (PDF)
+
+<a href="http://www.tsfp-conference.org/proceedings/2023/193.pdf" target="_blank" style="color:#007acc; text-decoration:none;">
+TSFP, proceeding, 2024 (PDF)
 </a>
 </p>
 
@@ -43,7 +46,7 @@ I studied the interaction of a single vortex ring with a deforming air bubble, a
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
-<a href="https://drive.google.com/file/d/1yJyuyciC1JLLIan8PwClFZHTd7Zl_omD/view?usp=drive_link" target="_blank" style="color:#007acc; text-decoration:none;">
+<a href="https://pubs.aip.org/aip/pof/article-abstract/35/8/083328/2907753/Vortex-ring-and-bubble-interaction-Effects-of?redirectedFrom=fulltext" target="_blank" style="color:#007acc; text-decoration:none;">
 Physics of Fluids, Vol. 35, No. 8 (PDF)
 </a>
 </p>
@@ -69,17 +72,46 @@ These differences lead to distinct effects on the ring’s dynamics:
 </div>
 
 <p style="margin-top:10px;">
-📄 <strong>Publication:</strong>  
-<a href="#" target="_blank" style="color:#007acc; text-decoration:none;">
-Accepted in Journal of Fluid Mechanics
+📄 <strong>Publication:</strong> 
+<a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.094302" target="_blank" style="color:#007acc; text-decoration:none;">
+Physical Review Fluids, 2022 (PDF)
 </a>
-</p>
+
 
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/PRF.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
+
+## 🌀 **Vortex-particle interaction: dramatic role of bubble's deformability**
+
+<div style="text-align: justify;">
+
+In bubbly flows, the deformability of bubbles is critical in governing the dynamics of both the carrier and dispersed phase. To better understand this aspect, I studied the interaction between a rigid buoyant particle (a non-deforming bubble) and a vortex ring at a fixed $\Phi$, and compared it with bubble–ring interactions.  
+
+Distinct differences emerge right from the capture phase. Unlike the bubble, which has a quicker capture time due to its large elongation and lower drag, the non-deforming particle takes longer to be captured due to higher drag. Post-capture, the rigid particle does not deform and remains localized within the ring, unlike the bubble which spreads azimuthally.  
+
+These differences lead to distinct effects on the ring’s dynamics:  
+- **Rigid particle case ($We = 0$):** The localized perturbation to the vorticity causes greater disruption of the vortex ring compared to the deforming bubble ($We > 0$).  
+- I further varied the particle size and identified several regimes of particle motion within the vortex ring. The scalings for the modified ring characteristics are substantially different than in the bubble case, with a smaller critical particle size.
+
+</div>
+
+<p style="margin-top:10px;">
+📄 <strong>Publication:</strong> 
+<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/interaction-of-a-vortex-ring-with-a-buoyant-spherical-particle-effects-of-particle-size-on-vorticity-dynamics-and-particle-dynamics/37A856FF5A73EECE0C019410690BAE2D" target="_blank" style="color:#007acc; text-decoration:none;">
+Journal of Fluid Mechanics, 2025 (PDF)
+</a>
+
+
+<div style="text-align: center; margin-top: 15px;">
+<img src="/images/PRF.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
+</div>
+
+---
+
+
 
 ## 🌀 **A vortex propagating in a swarm of bubbles**
 
@@ -171,6 +203,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
