@@ -115,7 +115,7 @@ Journal of Fluid Mechanics, 2025 (PDF)
 
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/PRF.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/offset.png" alt="Rigid Particle and Bubble Comparison" style="max-width: 90%; border-radius: 10px;">
 </div>
 
 ---
@@ -181,6 +181,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
+
 
 
 
