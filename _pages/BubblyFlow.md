@@ -4,11 +4,6 @@ layout: single
 author_profile: true
 ---
 
-<script type="text/javascript"
-  id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
 
 ##  **Flow through a hollow cube in a turbulent boundary layer: towards understanding indoor pollutant dispersion**
 
@@ -186,6 +181,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
+
 
 
 
