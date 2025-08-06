@@ -51,5 +51,24 @@ My research in experimental fluid mechanics broadly encompasses interfacial dyna
 
 <hr>
 
+<hr>
+
+<p><strong>Experimental:</strong></p>
+<ul>
+  <li><strong>Experience with different experimental facilities:</strong> Wind tunnel, Water tunnel, Water channel</li>
+</ul>
+
+<p><strong>Flow measurement techniques:</strong></p>
+<ul>
+  <li>Laser Doppler Anemometry (LDA)</li>
+  <li>Fast Flame Ionisation Detector (FFID)</li>
+  <li>Planar Laser-Induced Fluorescence (PLIF)</li>
+  <li>Particle Image Velocimetry (2D/3D, Time-resolved, 2-phase)</li>
+  <li>Particle Tracking Velocimetry (PTV)</li>
+  <li>Drag measurement</li>
+  <li>High-speed imaging and image processing</li>
+  <li>Force and moment (Load Cell) measurements</li>
+</ul>
+
 
 
