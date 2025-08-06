@@ -25,8 +25,6 @@ Flow, Cambridge University Press, 2024 (PDF)
 </a>
 </p>
 
-</div>
-
 <div style="text-align: center; margin-top: 15px;">
 
 <img src="/images/FLOW_indoor_outdoor.png" alt="Bubbly Flow Visualization" style="max-width: 90%; border-radius: 10px;">
@@ -57,6 +55,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
