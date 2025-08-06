@@ -76,7 +76,7 @@ Physical Review Fluids, 2022 (PDF)
 
 ---
 
-##  **Interaction of a vortex ring with a buoyant spherical particle: effects of particle size on vorticity dynamics and particle dynamics**
+**Interaction of a vortex ring with a buoyant spherical particle: effects of particle size on vorticity dynamics and particle dynamics**
 
 <div style="text-align: justify;">
 
@@ -98,8 +98,7 @@ Journal of Fluid Mechanics, 2025 (PDF)
 ---
 
 
-
-## 🌀 **Effect of single and multiple bubbles on a thin vortex ring**
+**Effect of single and multiple bubbles on a thin vortex ring**
 
 <div style="text-align: justify;">
 
@@ -120,7 +119,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Effects of salt concentration on top wall bubble injection in a turbulent channel flow: bubble dynamics and wall drag reduction**
+**Effects of salt concentration on top wall bubble injection in a turbulent channel flow: bubble dynamics and wall drag reduction**
 
 <div style="text-align: justify;">
 
@@ -141,7 +140,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Fish-like propulsion: thrust generation using 2-D and 3-D flapping foils**
+**Fish-like propulsion: thrust generation using 2-D and 3-D flapping foils**
 
 <div style="text-align: justify;">
 
@@ -173,6 +172,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
