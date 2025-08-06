@@ -30,14 +30,14 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## **Interaction of a rigid buoyant sphere and a deforming bubble with a vortex ring: The role of deformability**
+**Interaction of a rigid buoyant sphere and a deforming bubble with a vortex ring: The role of deformability**
 
 <div style="text-align: justify;">
 
 
 Bubble/particle-laden turbulent flows involve the complex interaction of many bubbles/particles with vortical structures (Fig. \ref{Bubbles_in_TBL}) having a range of length scales. \textit{\textbf{My work}} experimentally investigated an idealization of these flows, namely, the interaction of a vortex ring (in water) with air bubble(s) and rigid particles (Fig. \ref{Schematic_ring_bubble}). Following these, I further studied an application of bubbly flows, namely, drag reductions using air bubble injection into a (water) turbulent boundary layer in a channel flow.
 
-## 🌀 **Vortex ring and bubble interaction: Effects of bubble size on vorticity dynamics and bubble dynamics**
+**Vortex ring and bubble interaction: Effects of bubble size on vorticity dynamics and bubble dynamics**
 
 <div style="text-align: justify;">
 
@@ -179,6 +179,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
