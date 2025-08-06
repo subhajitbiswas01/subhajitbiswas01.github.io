@@ -41,7 +41,8 @@ My research in experimental fluid mechanics broadly encompasses interfacial dyna
 
 <p><strong>Research Expertise:</strong></p>
 <ul>
-  <li>Experimental fluid mechanics, turbulence, aerodynamics</li>
+  <li>Experimental fluid mechanics</li>
+  <li>Turbulence, aerodynamics</li>
   <li>Environmental flows (pollutant dispersion, ventilation)</li>
   <li>Multiphase turbulent flows</li>
   <li>Drag reduction, vorticity dynamics</li>
