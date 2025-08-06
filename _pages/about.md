@@ -10,7 +10,7 @@ redirect_from:
  
 <div style="text-align: justify;">
 <p>
-My <span style="color: blue;"><b>research expertise</b></span> in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on laboratory experiments modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with research groups across the UK specialising in numerical simulations and experiments. Previously, I obtained my PhD in Mechanical Engineering from the Indian Institute of Science (IISc), Bangalore, India. My doctoral research explored a range of problems from the fundamental interactions between vortical structures and air bubbles or rigid particles to practical applications such as drag reduction via bubble injection in turbulent boundary layers. 
+My research in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on experimentally modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with other research groups specialising in numerical simulations and experiments. Previously, my doctoral research focused on a range of problems related to the fundamentals of the interactions between vortical structures and air bubbles or rigid particles, related to practical applications of multiphase turbulence, such as drag reduction via bubble injection in turbulent boundary layers. 
 <p>
 
 <hr>
@@ -49,26 +49,5 @@ My <span style="color: blue;"><b>research expertise</b></span> in experimental f
 
 <hr>
 
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <!-- Left: Paragraph -->
-  <div style="flex: 1;">
-    <p>
-      My research focuses on experimental fluid mechanics, multiphase turbulent flows,
-      and environmental fluid dynamics. I investigate pollutant dispersion, drag reduction,
-      and vortex-particle interactions using advanced experimental techniques such as PIV,
-      PLIF, and high-speed imaging. These studies have applications in air quality,
-      marine engineering, and energy systems.
-    </p>
-  </div>
-
-  <!-- Right: Figure -->
-  <div style="flex: 0 0 300px;">
-    <img src="/images/FLOW.png" alt="Research figure" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;">
-    <p style="font-size: 0.9em; text-align: center; margin-top: 5px;">
-      Figure: Experimental setup in the water tunnel
-    </p>
-  </div>
-</div>
 
 
