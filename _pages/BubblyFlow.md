@@ -30,7 +30,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Interaction of a rigid buoyant sphere and a deforming bubble with a vortex ring: The role of deformability**
+## **Interaction of a rigid buoyant sphere and a deforming bubble with a vortex ring: The role of deformability**
 
 <div style="text-align: justify;">
 
@@ -179,6 +179,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
