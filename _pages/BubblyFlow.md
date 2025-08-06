@@ -44,7 +44,7 @@ TSFP, Proceedings, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/FLOW_indoor_outdoor.png" alt="Indoor-Outdoor Flow Visualization" style="max-width: 110%; border-radius: 10px;">
+<img src="/images/TSFP.png" alt="Indoor-Outdoor Flow Visualization" style="max-width: 110%; border-radius: 10px;">
 </div>
 
 
@@ -158,7 +158,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/TV_FV_salt.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/TV_FV_salt.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 60%; border-radius: 10px;">
 </div>
 
 ---
@@ -181,5 +181,6 @@ Flow, Cambridge University Press, 2024 (PDF)
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
+
 
 
