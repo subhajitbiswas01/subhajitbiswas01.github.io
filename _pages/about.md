@@ -10,7 +10,7 @@ redirect_from:
  
 <div style="text-align: justify;">
 <p>
-My research in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on experimentally modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with other research groups specialising in numerical simulations and experiments. Previously, my doctoral research focused on a range of problems related to the fundamentals of the interactions between vortical structures and air bubbles or rigid particles, related to practical applications of multiphase turbulence, such as drag reduction via bubble injection in turbulent boundary layers. 
+My expertise in experimental fluid mechanics broadly encompasses interfacial dynamics, multiphase flows (both turbulent and laminar), drag reduction, environmental flows, and fluid–structure interactions. Currently, I focus on experimentally modelling pollution dispersion in indoor and outdoor environments under atmospheric boundary layer conditions, in collaboration with other research groups specialising in numerical simulations and experiments. Previously, my doctoral research focused on a range of problems related to the fundamentals of the interactions between vortical structures and air bubbles or rigid particles, related to practical applications of multiphase turbulence, such as drag reduction via bubble injection in turbulent boundary layers. 
 <p>
 
 <hr>
