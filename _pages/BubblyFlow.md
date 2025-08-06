@@ -130,14 +130,10 @@ Many bubble drag reduction (BDR) applications occur in contaminated environments
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
-<a href="https://drive.google.com/file/d/1JV1y6pKnsH4TYJezZbBWHzKoIt6roiWQ/view?usp=drive_link" target="_blank" style="color:#007acc; text-decoration:none;">
+<a href="https://link.springer.com/article/10.1007/s00348-024-03770-8" target="_blank" style="color:#007acc; text-decoration:none;">
 Flow, Cambridge University Press, 2024 (PDF)
 </a>
 </p>
-
-<div style="text-align: center; margin-top: 15px;">
-<img src="/images/ExpSetup_TCF.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
-</div>
 
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/TV_FV_salt.png" alt="Salt Concentration Effects on Bubble Drag Reduction" style="max-width: 90%; border-radius: 10px;">
@@ -177,6 +173,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
