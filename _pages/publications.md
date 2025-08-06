@@ -29,9 +29,9 @@ author_profile: true
 
 1. **Subhajit Biswas**, Paul Hayden, Matteo Carpentieri, Christina Vanderwel. *Pollutant dispersion in cross-ventilating flow through a building: Wind and water tunnel measurements.* Proceedings of the 14th Conference on Wind Engineering, 4–6 September, 2024. [PDF](https://eprints.soton.ac.uk/493270/1/40_Paper_40_WES_Full_Paper.pdf)
 
-1. **Subhajit Biswas**, Christina Vanderwel. *Indoor-outdoor pollutant concentration in a flow through a hollow cube immersed in a turbulent boundary layer.* Proceedings of the 13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13), Montreal, Canada, pp. 39–47. [URL](https://proceedings.tsfp13.org/49819/) | [PDF](https://eprints.soton.ac.uk/491859/1/Biswas-Indoor-outdoor_pollutant_exchange_in_a_flow_through_a_hollow_cube_immersed_in_a_turbulent_boundary.pdf)
+1. **Subhajit Biswas**, Christina Vanderwel. *Indoor-outdoor pollutant concentration in a flow through a hollow cube immersed in a turbulent boundary layer.* Proceedings of the 13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13), Montreal, Canada, pp. 39–47. [PDF](https://eprints.soton.ac.uk/491859/1/Biswas-Indoor-outdoor_pollutant_exchange_in_a_flow_through_a_hollow_cube_immersed_in_a_turbulent_boundary.pdf)
 
-1. **Subhajit Biswas**, Raghuraman N Govardhan. *Bubble capture, breakup, and coalescence in vortex-bubble interaction.* Proceedings of the 16th Asian Congress of Fluid Mechanics, Bangalore, India, pp. 33–41. [doi:10.1007/978-981-15-3183-34](https://doi.org/10.1007/978-981-15-3183-34) | [PDF](https://drive.google.com/file/d/17RXZZH1Ko4aMTje5ytts5bUgRsR0nZf0/view?usp=share_link)
+1. **Subhajit Biswas**, Raghuraman N Govardhan. *Bubble capture, breakup, and coalescence in vortex-bubble interaction.* Proceedings of the 16th Asian Congress of Fluid Mechanics, Bangalore, India, pp. 33–41. [doi:10.1007/978-981-15-3183-34] [PDF](https://drive.google.com/file/d/17RXZZH1Ko4aMTje5ytts5bUgRsR0nZf0/view?usp=share_link)
 
 
 ## Conference Papers
@@ -57,7 +57,7 @@ author_profile: true
 
 ## Invited Talks:
 
-1 *Vortex ring and bubble interaction: An idealization of bubbly turbulence*, Remote Colloquium on Vortex Dominated Flows, Dec 8th, 2023. [Link](https://sites.google.com/g.ucla.edu/recovor/past-seminars)
+1. *Vortex ring and bubble interaction: An idealization of bubbly turbulence*, Remote Colloquium on Vortex Dominated Flows, Dec 8th, 2023. [Link](https://sites.google.com/g.ucla.edu/recovor/past-seminars)
 
 <!--
 Instructions:
@@ -65,6 +65,7 @@ Instructions:
 - Add links to PDF files in your repository if uploading full papers.
 - Adjust formatting or grouping as needed for your site style.
 -->
+
 
 
 
