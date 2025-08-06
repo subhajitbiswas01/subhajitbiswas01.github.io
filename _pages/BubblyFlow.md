@@ -167,20 +167,15 @@ Experiments in Fluids, 2024 (PDF)
 
 <div style="text-align: justify;">
 
-Fish use flapping motions to generate thrust, with the oscillating tail as the primary propulsion mechanism. Studying these motions helps understand and mimic efficient thrust generation. I experimentally studied thrust from sinusoidal pitching motion of rigid, flexible, and hybrid foils of varying shapes in a uniform flow at different pitching amplitudes, Reynolds number, and flexibilities. The transient shapes of the flexible foils were characterized using image processing and correlated with measured unsteady forces and moments from a load cell.
+Fish use flapping motions to generate thrust, with the oscillating tail as the primary propulsion mechanism. Studying these motions helps understand and mimic efficient thrust generation. I experimentally studied thrust from sinusoidal pitching motion of rigid, flexible, and hybrid foils of varying shapes in a uniform flow at different pitching amplitudes, Reynolds number, and flexibilities. The transient shapes of the flexible foils were characterised using image processing and correlated with measured unsteady forces and moments from a load cell.
 
 </div>
 
-<p style="margin-top:10px;">
-📄 <strong>Publication:</strong> 
-<a href="https://drive.google.com/file/d/1JV1y6pKnsH4TYJezZbBWHzKoIt6roiWQ/view?usp=drive_link" target="_blank" style="color:#007acc; text-decoration:none;">
-Flow, Cambridge University Press, 2024 (PDF)
-</a>
-</p>
 
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
+
 
 
 
