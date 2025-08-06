@@ -39,7 +39,7 @@ Physics of Fluids, Vol. 35 (2023)
 
 <div style="text-align: center; margin-top: 15px;">
 
-<img src="/assets/images/FLOW_indoor_outdoor.png" alt="Bubbly Flow Visualization" style="max-width: 70%; border-radius: 10px;">
+<img src="/images/FLOW_indoor_outdoor.png" alt="Bubbly Flow Visualization" style="max-width: 70%; border-radius: 10px;">
 
 </div>
 
@@ -67,6 +67,7 @@ Physics of Fluids, Vol. 35 (2023)
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
