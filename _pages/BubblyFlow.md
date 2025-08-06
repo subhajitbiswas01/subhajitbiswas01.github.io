@@ -31,7 +31,9 @@ TSFP, proceeding, 2024 (PDF)
 
 ---
 
-**Vortex Ring and Bubble Interaction: Effects of Bubble Size on Vorticity Dynamics and Bubble Dynamics**
+---
+
+## Vortex Ring and Bubble Interaction: Effects of Bubble Size on Vorticity Dynamics and Bubble Dynamics
 
 <div style="text-align: justify;">
 
@@ -177,6 +179,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
