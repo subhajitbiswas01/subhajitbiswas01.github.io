@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Flow through a hollow cube in a turbulent boundary layer: towards understanding indoor pollutant dispersion**
+##  **Flow through a hollow cube in a turbulent boundary layer: towards understanding indoor pollutant dispersion**
 
 <div style="text-align: justify;">
 
@@ -32,7 +32,7 @@ TSFP, proceeding, 2024 (PDF)
 
 ---
 
-## **Vortex Ring and Bubble Interaction: Effects of Bubble Size on Vorticity Dynamics and Bubble Dynamics**
+##  **Vortex Ring and Bubble Interaction: Effects of Bubble Size on Vorticity Dynamics and Bubble Dynamics**
 
 <div style="text-align: justify;">
 
@@ -65,6 +65,7 @@ Physics of Fluids, Vol. 35, No. 8 (PDF)
 
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
