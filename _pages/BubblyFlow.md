@@ -9,18 +9,9 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid buildings or flows through hollow buildings under atmospheric boundary layer conditions.  
+Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid buildings or flows through hollow buildings under atmospheric boundary layer conditions. This work investigates a diverse parametric space, including the effects of:  Pollutant source location (indoor vs. outdoor), Flow Reynolds number ($Re$), Boundary layer to building height ratio ($\delta/H$). 
 
-This work investigates a diverse parametric space, including the effects of:  
-- Pollutant source location (indoor vs. outdoor)  
-- Flow Reynolds number ($Re$)  
-- Boundary layer to building height ratio ($\delta/H$)  
-
-Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, used as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel.
-
-I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes using simultaneous scalar measurements (Planar Laser-Induced Fluorescence, PLIF) and velocity measurements (Particle Image Velocimetry, PIV). Such a combined characterization has not been reported earlier in this flow configuration.  
-
-Furthermore, I report substantial effects of window opening positioning on the indoor flow structure and scalar concentration, distribution, and timescales. The results from the experiments are also used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
+Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, used as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel. I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes using simultaneous scalar measurements (Planar Laser-Induced Fluorescence, PLIF) and velocity measurements (Particle Image Velocimetry, PIV). Such a combined characterization has not been reported earlier in this flow configuration.  Furthermore, I report substantial effects of window opening positioning on the indoor flow structure and scalar concentration, distribution, and timescales. The results from the experiments are also used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
 
 </div>
 
@@ -32,12 +23,12 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/FLOW_indoor_outdoor.png" alt="Indoor-Outdoor Flow Visualization" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/FLOW_indoor_outdoor.png" alt="Indoor-Outdoor Flow Visualization" style="max-width: 110%; border-radius: 10px;">
 </div>
 
 ---
 
-## 🌀 **Part II: Vortex Ring and Bubble Interaction — Effects of Bubble Size**
+## 🌀 **How critical is bubble size in the interaction of a vortex with a bubble**
 
 <div style="text-align: justify;">
 
@@ -63,7 +54,7 @@ Physics of Fluids, Vol. 35, No. 8 (PDF)
 
 ---
 
-## 🌀 **Part III: Rigid Particle vs Deforming Bubble — Role of Deformability**
+## 🌀 **Vortex-particle interaction: dramatic role of bubble's deformability**
 
 <div style="text-align: justify;">
 
@@ -90,7 +81,7 @@ Accepted in Journal of Fluid Mechanics
 
 ---
 
-## 🌀 **Part IV: Multiple Bubbles and Vortex Ring — Swarm Effects**
+## 🌀 **A vortex propagating in a swarm of bubbles**
 
 <div style="text-align: justify;">
 
@@ -117,7 +108,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Part V: Effects of Salt Concentration on Bubble Drag Reduction**
+## 🌀 **Friction drag modification in a turbulent flow using air bubbles: role of contamination concentration**
 
 <div style="text-align: justify;">
 
@@ -148,15 +139,11 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Part VI: Thrust Generation using 2-D and 3-D Rigid and Flexible Foils**
+## 🌀 **Fish-like propulsion: thrust generation using 2-D and 3-D flapping foils**
 
 <div style="text-align: justify;">
 
-Fish use flapping motions to generate thrust, with the oscillating tail as the primary propulsion mechanism. Studying these motions helps understand and mimic efficient thrust generation.  
-
-I experimentally studied thrust from sinusoidal pitching motion of rigid, flexible, and hybrid foils of varying shapes in a uniform flow at different pitching amplitudes, $Re$, and flexibilities ($EI$).  
-
-The transient shapes of the flexible foils were characterized using image processing and correlated with measured unsteady forces and moments from a load cell.
+Fish use flapping motions to generate thrust, with the oscillating tail as the primary propulsion mechanism. Studying these motions helps understand and mimic efficient thrust generation. I experimentally studied thrust from sinusoidal pitching motion of rigid, flexible, and hybrid foils of varying shapes in a uniform flow at different pitching amplitudes, $Re$, and flexibilities ($EI$). The transient shapes of the flexible foils were characterized using image processing and correlated with measured unsteady forces and moments from a load cell.
 
 </div>
 
@@ -168,7 +155,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 </p>
 
 <div style="text-align: center; margin-top: 15px;">
-<img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 90%; border-radius: 10px;">
+<img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 70%; border-radius: 10px;">
 </div>
 
 ---
@@ -184,5 +171,6 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
