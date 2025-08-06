@@ -5,12 +5,11 @@ layout: single
 author_profile: true
 ---
 
-
 ## 🌀 **Part I: Vortex Ring and Bubble Interaction**
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<div style="flex: 2;">
+<div style="flex: 2; text-align: justify;">
 
 My doctoral research at IISc Bangalore focused on understanding **bubbly turbulent flows**, examining the complex interactions between air bubbles, buoyant rigid particles, and vortex structures, alongside applications in drag reduction. This work builds fundamental insights for marine, industrial, and environmental multiphase flows.
 
@@ -40,5 +39,6 @@ My doctoral research at IISc Bangalore focused on understanding **bubbly turbule
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
