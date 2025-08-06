@@ -1,4 +1,5 @@
 ---
+
 permalink: /bubblyflow/
 layout: single
 author_profile: true
@@ -180,6 +181,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 <div style="text-align: center; margin-top: 15px;">
 <img src="/images/Flapping.png" alt="Flexible Foil Thrust Generation" style="max-width: 50%; border-radius: 10px;">
 </div>
+
 
 
 
