@@ -31,13 +31,12 @@ TSFP, proceeding, 2024 (PDF)
 
 ---
 
-
-
----
-
 **Flow through a hollow cube in a turbulent boundary layer: towards understanding indoor pollutant dispersion**
 
+</p>
+
 <div style="text-align: justify;">
+
 
 Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid buildings or flows through hollow buildings under atmospheric boundary layer conditions. This work investigates a diverse parametric space, including the effects of:  Pollutant source location (indoor vs. outdoor), Flow Reynolds number ($Re$), Boundary layer to building height ratio ($\delta/H$). 
 
@@ -67,6 +66,7 @@ TSFP, proceeding, 2024 (PDF)
 
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
