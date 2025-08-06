@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## 🌀 **Flow through a hollow cube in a turbulent boundary layer: towards understanding indoor pollutant dispersion**
+##   **Flow through a hollow cube in a turbulent boundary layer: towards understanding indoor pollutant dispersion**
 
 <div style="text-align: justify;">
 
@@ -31,7 +31,7 @@ TSFP, proceeding, 2024 (PDF)
 
 ---
 
-## 🌀 **Vortex ring and bubble interaction: Effects of bubble size on vorticity dynamics and bubble dynamics**
+##  **Vortex ring and bubble interaction: Effects of bubble size on vorticity dynamics and bubble dynamics**
 
 <div style="text-align: justify;">
 
@@ -76,7 +76,7 @@ Physical Review Fluids, 2022 (PDF)
 
 ---
 
-## 🌀 **Interaction of a vortex ring with a buoyant spherical particle: effects of particle size on vorticity dynamics and particle dynamics**
+##  **Interaction of a vortex ring with a buoyant spherical particle: effects of particle size on vorticity dynamics and particle dynamics**
 
 <div style="text-align: justify;">
 
@@ -173,6 +173,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 ---
 
 For more information or collaborations, contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
