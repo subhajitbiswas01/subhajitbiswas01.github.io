@@ -18,21 +18,21 @@ My research in experimental fluid mechanics broadly encompasses interfacial dyna
 <p><strong>Employment History:</strong></p>
 <ul>
   <li><strong>Postdoctoral Research Fellow</strong>, Aerodynamics and Astronautics, University of Southampton, UK (2023 – Present)</li>
-  <li><strong>Postdoctoral Researcher</strong>, Mechanical Engineering, IISc Bangalore, India (2022 – 2023)</li>
+  <li><strong>Postdoctoral Researcher</strong>, Mechanical Engineering, Indian Institute of Science, Bengaluru, India (2022 – 2023)</li>
 </ul>
 
 <hr>
 
 <p><strong>Education:</strong></p>
 <ul>
-  <li><strong>Ph.D. in Mechanical Engineering</strong>, IISc Bangalore  
+  <li><strong>Ph.D. in Mechanical Engineering</strong>, Indian Institute of Science, Bengaluru, India
     <br>Thesis: <em>Interaction of bubble(s) and buoyant rigid particles with vortical structures</em>  
     <a href="https://etd.iisc.ac.in/handle/2005/6016">View Thesis</a>
   </li>
-  <li><strong>M.E. in Mechanical Engineering</strong>, IISc Bangalore  
+  <li><strong>M.E. in Mechanical Engineering</strong>, Indian Institute of Science, Bengaluru, India  
     <br>Thesis: <em>Experimental investigation of thrust generation using rigid and flexible foils</em>
   </li>
-  <li><strong>B.Tech. in Mechanical Engineering</strong>, West Bengal University of Technology  
+  <li><strong>B.Tech. in Mechanical Engineering</strong>, Jalpaiguri Government Engineering college, India 
     <br>Thesis: <em>Particle emission control by using theoretical electro-cyclone model</em>
   </li>
 </ul>
@@ -43,8 +43,9 @@ My research in experimental fluid mechanics broadly encompasses interfacial dyna
 <ul>
   <li>Experimental fluid mechanics, turbulence, aerodynamics</li>
   <li>Environmental flows (pollutant dispersion, ventilation)</li>
-  <li>Multiphase turbulent flows (bubble/particle-laden flows)</li>
-  <li>Drag reduction, vorticity dynamics, fluid-structure interactions</li>
+  <li>Multiphase turbulent flows</li>
+  <li>Drag reduction, vorticity dynamics</li>
+  <li>Fluid-structure interactions</li>
 </ul>
 
 <hr>
