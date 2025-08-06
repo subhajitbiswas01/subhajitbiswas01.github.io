@@ -13,7 +13,12 @@ author_profile: true
 
 My doctoral research at IISc Bangalore focused on understanding **bubbly turbulent flows**, examining the complex interactions between air bubbles, buoyant rigid particles, and vortex structures, alongside applications in drag reduction. This work builds fundamental insights for marine, industrial, and environmental multiphase flows.
 
-*Publication:* [Physics of Fluids, Vol. 35](https://doi.org/10.1063/5.0160815)
+<p style="margin-top:10px;">
+<strong>📄 Publication:</strong> 
+<a href="https://doi.org/10.1063/5.0160815" target="_blank" style="color:#007acc; text-decoration:none;">
+Physics of Fluids, Vol. 35 (2023)
+</a>
+</p>
 
 </div>
 
@@ -39,6 +44,7 @@ My doctoral research at IISc Bangalore focused on understanding **bubbly turbule
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
