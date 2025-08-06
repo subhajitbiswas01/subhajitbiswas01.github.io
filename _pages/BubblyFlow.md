@@ -34,7 +34,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Interaction of bubble(s) and buoyant rigid particles with vortical structures: Towards understanding bubbly turbulent flows**
+## 🌀 **Interaction of a rigid buoyant sphere and a deforming bubble with a vortex ring: The role of deformability**
 
 <div style="text-align: justify;">
 
@@ -67,13 +67,20 @@ Physics of Fluids, Vol. 35, No. 8 (PDF)
 
 ---
 
-## 🌀 **Part I: Vortex Ring and Bubble Interaction**
+## 🌀 **Part I: Interaction of a rigid buoyant sphere and a deforming bubble with a vortex ring: The role of deformability**
 
 <div style="text-align: justify;">
 
 <div style="text-align: justify;">
 
-Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid building(s) or flow through hollow building(s) under atmospheric boundary layer conditions. This work investigates a diverse parametric space, including the effects of: Pollutant source location (indoor vs. outdoor), Flow Reynolds number ($Re$), Boundary layer to building height ratio ($\delta/H$).  Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel. I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes from simultaneous scalar measurements using Planar Laser-Induced Fluorescence (PLIF) and velocity measurements using Particle Image Velocimetry (PIV). Such a combined characterization has not been reported earlier in this flow configuration. Further, I report substantial effects of window opening positioning (see Fig. 1b–d) on indoor flow and scalar concentration, distribution, and time scales. The results from the experiments are further used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
+In bubbly flows, the deformability of bubbles is critical in governing the dynamics of both the carrier and dispersed phase.  To better understand this aspect, I have studied the interaction between a rigid buoyant particle (a non-deforming bubble) and a vortex ring (Fig. \ref{PRF_Vis}(b)) at a fixed $\Phi$, and compared with the results on bubble-ring interactions. Distinct differences can be seen right from the capture phase (see Fig. \ref{PRF_Vis}). For example, unlike the bubble which had a quicker capture time due to its large elongation and lower drag, the non-deforming particle took longer to get captured due to a higher drag.  Post-capture, the particle does not deform and stays more localised within the ring, unlike the bubble that spreads azimuthally inside the ring. These differences lead to distinct differences in the ring’s dynamics. {\textit{\textbf{\underline{Novel findings:}}} In particular, the measurements indicate that the localized large perturbation to the vorticity in the rigid particle case (an equivalent of a rigid bubble, $We$=0) leads to a larger disruption of the vortex ring as seen in terms of higher reduction in the ring convection speed and azimuthal enstrophy than for the deforming bubble (non-zero $We$) case. $\bullet$ I further varied the particle size and found a number of regimes characterising the motion of the particle within the vortex ring. In addition, the scalings related to the modified ring's characteristics are found to be substantially different than in the case of a bubble, and the critical particle size is smaller than the bubble.
+
+📄 <strong>Publication:</strong>  
+<a href="#" target="_blank" style="color:#007acc; text-decoration:none;">
+Accepted in Journal of Fluid Mechanics
+</a>
+
+</div>
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
@@ -91,13 +98,13 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Part I: Vortex Ring and Bubble Interaction**
+## 🌀 **PEffect of single and multiple bubbles on a thin vortex ring**
 
 <div style="text-align: justify;">
 
 <div style="text-align: justify;">
 
-Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid building(s) or flow through hollow building(s) under atmospheric boundary layer conditions. This work investigates a diverse parametric space, including the effects of: Pollutant source location (indoor vs. outdoor), Flow Reynolds number ($Re$), Boundary layer to building height ratio ($\delta/H$).  Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel. I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes from simultaneous scalar measurements using Planar Laser-Induced Fluorescence (PLIF) and velocity measurements using Particle Image Velocimetry (PIV). Such a combined characterization has not been reported earlier in this flow configuration. Further, I report substantial effects of window opening positioning (see Fig. 1b–d) on indoor flow and scalar concentration, distribution, and time scales. The results from the experiments are further used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
+I studied the interaction of multiple air bubbles, namely a swarm of bubbles, with a single vortex ring formed in the water medium (Fig. \ref{Multiple_Bubble}). This is essentially the first problem of the thesis, with the added complexity of the presence of many bubbles. In particular, the focus of the work is to both contrast and find similarities in the interaction of a vortex ring with a single bubble and a swarm of bubbles. {\textit{\textbf{\underline{Novel findings:}}} As the ring travels through this swarm of bubbles, the ring continuously captures the bubbles, resulting in a time-varying ratio of ``total volumes of bubbles within the ring-to-ring volume'', thus making their interactions more dramatic and killing the ring much faster, than in the single bubble case. 
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
@@ -115,13 +122,13 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Part I: Vortex Ring and Bubble Interaction**
+## 🌀 **Effects of salt concentration on wall bubble injection in a turbulent channel flow: bubble dynamics and wall drag reduction**
 
 <div style="text-align: justify;">
 
 <div style="text-align: justify;">
 
-Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid building(s) or flow through hollow building(s) under atmospheric boundary layer conditions. This work investigates a diverse parametric space, including the effects of: Pollutant source location (indoor vs. outdoor), Flow Reynolds number ($Re$), Boundary layer to building height ratio ($\delta/H$).  Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel. I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes from simultaneous scalar measurements using Planar Laser-Induced Fluorescence (PLIF) and velocity measurements using Particle Image Velocimetry (PIV). Such a combined characterization has not been reported earlier in this flow configuration. Further, I report substantial effects of window opening positioning (see Fig. 1b–d) on indoor flow and scalar concentration, distribution, and time scales. The results from the experiments are further used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
+Most applications related to bubble drag reduction (BDR) occur in contaminated environments (e.g., sea water) where the presence of different surface active agents modify bubble coalescence and, hence, affect flow drag. However, most studies are performed in freshwater (without salt/surfactant) and hence would not be a true indicator of BDR in a contaminated environment. {\textit{\textbf{\underline{Novelty:}}} I experimentally investigated the effects of salt concentration ($M$) on the air-bubble dynamics and drag modification in a fully developed horizontal turbulent channel (water) flow (Fig. \ref{Channel_side_view} \& \ref{Channel_side_vis}). The spatial and temporal aspects of the bubble dynamics were captured by high-speed visualizations, while the streamwise pressure drop through the channel was measured at different wall-normal locations. {\textit{\textbf{\underline{Novel findings:}}} Increasing $M$ led to a reduction in bubble coalescence and, consequently, in bubble size that modified bubble deformability, migration, and distribution (Fig. \ref{Channel_side_vis}), with the changes being dependent on the $Re$ and injected bubble volume fraction ($\alpha$). At low $Re$, the addition of salt leads to a dramatic reduction in bubble sizes ($\sim$100 microns) from the very large coalesced bubbles ($\sim$cm) seen in the no-salt cases. The reduction in bubble sizes with $M$ led to an increase in drag, which saturated beyond a critical concentration ($M_{Critical}$). With increasing $Re$, the bubble dynamics was found to be less susceptible to modifications by $M$, and hence, resulted in a smaller increase in drag and a lower $M_{Critical}$.
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
@@ -139,13 +146,13 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 ---
 
-## 🌀 **Part I: Vortex Ring and Bubble Interaction**
+## 🌀 **Experimental investigation of thrust generation using 2-D and 3-D rigid and flexible foils**
 
 <div style="text-align: justify;">
 
 <div style="text-align: justify;">
 
-Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid building(s) or flow through hollow building(s) under atmospheric boundary layer conditions. This work investigates a diverse parametric space, including the effects of: Pollutant source location (indoor vs. outdoor), Flow Reynolds number ($Re$), Boundary layer to building height ratio ($\delta/H$).  Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel. I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes from simultaneous scalar measurements using Planar Laser-Induced Fluorescence (PLIF) and velocity measurements using Particle Image Velocimetry (PIV). Such a combined characterization has not been reported earlier in this flow configuration. Further, I report substantial effects of window opening positioning (see Fig. 1b–d) on indoor flow and scalar concentration, distribution, and time scales. The results from the experiments are further used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
+Fishes employ flapping motions to generate thrust where the basic source of locomotion is their oscillating tail. Investigating these would help understand and mimic fish's efficient thrust-generating mechanism. I experimentally studied thrust generation from the sinusoidal pitching motion of rigid, flexible, and hybrid foils (Fig. \ref{flapping}) for varying shapes immersed in a uniform flow at varying pitching amplitudes, flow $Re$, and flexibility ($EI$). The transient shapes of the flexible foils were characterised through image processing and then associated with the increased/reduced thrust obtained from the measured unsteady forces and moment using a Load cell.
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
@@ -276,6 +283,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
