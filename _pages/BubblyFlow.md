@@ -11,12 +11,19 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid building(s) or flow through hollow building(s) under atmospheric boundary layer conditions. This work investigates a diverse parametric space, including the effects of: Pollutant source location (indoor vs. outdoor), Flow Reynolds number ($Re$), Boundary layer to building height ratio ($\delta/H$).    
+Over the past few decades, rapid urbanization has significantly degraded the air quality in both indoor and outdoor environments. Most studies focus on pollutant dispersion and transport mechanisms either in indoor or outdoor spaces, typically using configurations such as flows around scaled-down solid buildings or flows through hollow buildings under atmospheric boundary layer conditions.
 
-Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel.
+This work investigates a diverse parametric space, including the effects of:  
+- Pollutant source location (indoor vs. outdoor)  
+- Flow Reynolds number ($Re$)  
+- Boundary layer to building height ratio ($\delta/H$)  
 
-<p style="margin-top:10px;">
-<strong><u>Novelty:</u></strong> I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes from simultaneous scalar measurements using Planar Laser-Induced Fluorescence (PLIF) and velocity measurements using Particle Image Velocimetry (PIV). Such a combined characterization has not been reported earlier in this flow configuration. Further, I report substantial effects of window opening positioning (see Fig. 1b–d) on indoor flow and scalar concentration, distribution, and time scales. The results from the experiments are further used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
+Cross ventilation plays a crucial role in dispersing indoor pollutants through the exchange of indoor and outdoor air. To understand the pollutant transport mechanisms in such scenarios, I experimentally investigate the flow through a hollow cube with an indoor pollutant source (Rhodamine dye, used as a passive scalar) immersed in an atmospheric boundary layer inside a water tunnel.
+
+I characterize the scalar transport mechanisms by measuring the advective and turbulent scalar fluxes using simultaneous scalar measurements (Planar Laser-Induced Fluorescence, PLIF) and velocity measurements (Particle Image Velocimetry, PIV). Such a combined characterization has not been reported earlier in this flow configuration.
+
+Furthermore, I report substantial effects of window opening positioning (see Fig. 1b–d) on the indoor flow structure and scalar concentration, distribution, and timescales. The results from the experiments are also used to construct an analytical model to help predict indoor pollutant concentration in such cross-ventilating flow configurations.
+
 
 <p style="margin-top:10px;">
 📄 <strong>Publication:</strong> 
@@ -184,6 +191,7 @@ Flow, Cambridge University Press, 2024 (PDF)
 
 
 For more information, collaborations, or access to these publications, please contact me at [s.biswas@soton.ac.uk](mailto:s.biswas@soton.ac.uk).
+
 
 
 
