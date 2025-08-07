@@ -191,7 +191,7 @@ My expertise in experimental fluid mechanics broadly encompasses interfacial dyn
 
 <p style="margin-top:10px;">
   📄 <strong>Publication:</strong>
-  <a href="10.1615/JFlowVisImageProc.2020031014" target="_blank" style="color:#007acc; text-decoration:none;">
+  <a href="https://www.dl.begellhouse.com/journals/52b74bd3689ab10b,38e46e5e497ac8cb,538b8a397ab1e248.html" target="_blank" style="color:#007acc; text-decoration:none;">
     J. of Flow Visualization, 2020 (PDF)
   </a>
 </p>
