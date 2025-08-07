@@ -30,8 +30,8 @@ main:
   #- title: "Research"
    # permalink: /research/
 
-  - title: "Research"
-    url: /bubblyflow/
+ # - title: "Research"
+  #  url: /bubblyflow/
 ---
 
 # My Projects
