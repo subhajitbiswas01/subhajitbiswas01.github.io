@@ -1,7 +1,8 @@
 ---
 permalink: /
-# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Subhajit Biswas Aerospace/Mechanical researcher in experimental fluid mechanics—pollutant dispersion, multiphase flows, vortex–bubble interactions"
 author_profile: true
+description: "Aerospace/Mechanical researcher in experimental fluid mechanics—pollutant dispersion, multiphase flows, vortex–bubble interactions."
 redirect_from: 
   - /about/
   - /about.html
