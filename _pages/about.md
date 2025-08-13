@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Subhajit Biswas Aerospace/Mechanical researcher in experimental fluid mechanics—pollutant dispersion, multiphase flows, vortex–bubble interactions"
+# title: "Subhajit Biswas Aerospace/Mechanical researcher in experimental fluid mechanics—pollutant dispersion, multiphase flows, vortex–bubble interactions"
 author_profile: true
 description: "Aerospace/Mechanical researcher in experimental fluid mechanics—pollutant dispersion, multiphase flows, vortex–bubble interactions."
 redirect_from: 
